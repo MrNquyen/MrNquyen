@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=48&letterSpacing=.2rem;&pause=1000&center=true&vCenter=true&random=true&width=1200&height=400&lines=Let's+Jump+Innn;Data+Science+Inspiration)](https://git.io/typing-svg)
 
-![Alt Text]([https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif](https://giphy.com/embed/R8a0AMqPqqXSJACEzj))
+![GIF](https://media.giphy.com/media/R8a0AMqPqqXSJACEzj/giphy.gif) ![Animated text](https://typograssy.deno.dev/api?text=Tran%20Khoi%20Nguyen%20&l0=ffffff&l1=ce80ea&l2=bf45af&l3=720a8f&l4=9b1cca&frame=8b18c)
 
-![GIF](https://media.giphy.com/media/R8a0AMqPqqXSJACEzj/giphy.gif)
 
 ![Animated text](https://typograssy.deno.dev/api?text=Tran%20Khoi%20Nguyen%20&l0=ffffff&l1=ce80ea&l2=bf45af&l3=720a8f&l4=9b1cca&frame=8b18c9&speed=250&comment=Let's%20road%20road%20road%20the%20road)
 
