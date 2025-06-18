@@ -9,15 +9,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=48&letterSpacing=.2rem;&pause=1000&center=true&vCenter=true&random=true&width=1200&height=400&lines=Let's+Jump+Innn;Data+Science+Inspiration)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen&show_icons=true&theme=dracula)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=SymbolicResoning)](https://github.com/MrNquyen/SymbolicResoning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DEVICE-Image-Captioning)](https://github.com/MrNquyen/Implement-DEVICE-Captioning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Implement-DEVICE-Captioning)](https://github.com/MrNquyen/Implement-DEVICE-Captioning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Spark-Streaming-with-Kafka)](https://github.com/MrNquyen/Spark-Streaming-with-Kafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Music-Analysis-On-Spotify)](https://github.com/MrNquyen/Music-Analysis-On-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Climate-Change-Analysis)](https://github.com/MrNquyen/Climate-Change-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DS-Challenge-Inforgraphic-Study)](https://github.com/MrNquyen/DS_Challenge_Group_A)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Movie-Genre-Classification)](https://github.com/MrNquyen/CS231-MovieGenre)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Steam-Game-Chatbot-Recommendation)](https://github.com/MrNquyen/DS307_SocialMedia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DS_Challenge_Group_A)](https://github.com/MrNquyen/DS_Challenge_Group_A)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=CS231-MovieGenre)](https://github.com/MrNquyen/CS231-MovieGenre)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DS307_SocialMedia)](https://github.com/MrNquyen/DS307_SocialMedia)
+
+---------------------------------------------------------------------------------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen&show_icons=true&theme=dracula)
