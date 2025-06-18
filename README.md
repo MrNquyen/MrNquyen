@@ -11,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNquyen&show_icons=true&theme=dracula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/MrNquyen/github-readme-stats)
