@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=SymbolicResoning)](https://github.com/MrNquyen/SymbolicResoning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DEVICE-Image-Captioning)](https://github.com/MrNquyen/Implement-DEVICE-Captioning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Spark-Streaming)](https://github.com/MrNquyen/Spark-Streaming-with-Kafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Spark-Streaming-with-Kafka)](https://github.com/MrNquyen/Spark-Streaming-with-Kafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Music-Analysis-On-Spotify)](https://github.com/MrNquyen/Music-Analysis-On-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Climate-Change-Analysis)](https://github.com/MrNquyen/Climate-Change-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DS-Challenge-Inforgraphic-Study)](https://github.com/MrNquyen/DS_Challenge_Group_A)
