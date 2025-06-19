@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tknguyen4804/)](https://www.linkedin.com/in/tknguyen4804/)
+[![Linkedin Badge](https://img.shields.io/badge/-NguyenTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tknguyen4804/)](https://www.linkedin.com/in/tknguyen4804/)
 
 *I am a data science student and I have experiences in working with Generative AI and in NLP field 👨‍💻. I am eager to learn and explore new technologies.*
 
