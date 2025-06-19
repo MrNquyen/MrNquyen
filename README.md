@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Spark-Streaming-with-Kafka&theme=merko)](https://github.com/MrNquyen/Spark-Streaming-with-Kafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Music-Analysis-On-Spotify&theme=tokyonight)](https://github.com/MrNquyen/Music-Analysis-On-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Climate-Change-Analysis&theme=cobalt)](https://github.com/MrNquyen/Climate-Change-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Inforgaphic-Learning-DS-Challenge&theme=synthwave)](https://github.com/MrNquyen/Inforgaphic-Learning-DS-Challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Inforgaphic-Learning-DSChallenge&theme=synthwave)](https://github.com/MrNquyen/Inforgaphic-Learning-DSChallenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=CS231-MovieGenre&theme=highcontrast)](https://github.com/MrNquyen/CS231-MovieGenre)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DS307_SocialMedia&theme=onedark)](https://github.com/MrNquyen/DS307_SocialMedia)
 
