@@ -1,4 +1,4 @@
-# **Hi there 👋**
+# **Hi there 👋 Iam Nguyen Tran**
 
 [![Linkedin Badge](https://img.shields.io/badge/-NguyenTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tknguyen4804/)](https://www.linkedin.com/in/tknguyen4804/)
 
