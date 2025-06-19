@@ -10,7 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=48&letterSpacing=.2rem;&pause=1000&center=true&vCenter=true&random=true&width=1200&height=400&lines=Let's+Jump+Innn;Data+Science+Inspiration)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=SymbolicResoning&theme=dracula)](https://github.com/MrNquyen/SymbolicResoning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Implement-DEVICE-Captioning&theme=radical)](https://github.com/MrNquyen/Implement-DEVICE-Captioning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=DEVICE-Image-Captioning&theme=radical)](https://github.com/MrNquyen/DEVICE-Image-Captioning
+)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Spark-Streaming-with-Kafka&theme=merko)](https://github.com/MrNquyen/Spark-Streaming-with-Kafka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Music-Analysis-On-Spotify&theme=tokyonight)](https://github.com/MrNquyen/Music-Analysis-On-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrNquyen&repo=Climate-Change-Analysis&theme=cobalt)](https://github.com/MrNquyen/Climate-Change-Analysis)
